@@ -9,12 +9,7 @@ Simple FastAPI app for AI sentiment analysis and text summarization.
 
 ## Quick Start
 
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-2. Run the app:
+Run the app:
 ```bash
 python app.py
 ```
